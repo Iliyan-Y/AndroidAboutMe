@@ -21,4 +21,7 @@ Once you’re done, you can check your solution against the solution we’ve pro
 \n\nThere is no solution code provided for this challenge, but the skeleton code below gives you the
         \n\nexpected view hierarchy to use.
 \n\nSKELETON code of view hierarchy:</string>
+  <string name="what_is_your_nickname">What is your nickname ?</string>
+  <string name="done_button">Done</string>
+  <string name="show_nick_name" />
 </resources>
